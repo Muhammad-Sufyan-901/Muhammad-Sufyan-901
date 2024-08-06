@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Global Digital Verse<br>🌱 I’m currently learning about Software Development<br>💬 Ask me anything
+Hello everyone! I am Muhammad Sufyan, a frontend mobile and website developer. I am a intermediate experienced and I hope with this I can always learning something new to be able to invent digital applications that can help many people in the future. Could work independently or in a team.
 
 
 ## 🌐 Socials:
